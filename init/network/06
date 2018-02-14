@@ -1,0 +1,2 @@
+Le fichier contenant l'adresse IP du serveur DNS utilise ici se nomme resolve.conf et se trouve dans le dossier etcsitue dans /.
+Path : /etc/resolv.conf

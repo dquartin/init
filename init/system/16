@@ -1,0 +1,2 @@
+Le service permettant de lancer des taches a horaires regulieres est Cron. Il s'agit d'un gestionnaire de taches planifiees. Il est possible de programmer des taches a effectuer.
+Path : /etc/init.d/cron

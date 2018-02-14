@@ -1,0 +1,6 @@
+Pour faire pointer l'adresse 46.19.122.85 sur l'adresse 'intra.42.fr' il faut modifier le fichier hosts (path : /etc/hosts) sous vim (ou emacs, mais c'est moins bien) en entrant d'abord l'adresse IP suivit du nom de domaine.
+Commandes :
+> vim /etc/hosts
+> 46.19.122.85 intra.42.fr
+> :wq
+TADA !

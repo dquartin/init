@@ -1,0 +1,1 @@
+ping slash16.org | head -n 2 | grep 64 | awk -F ' ' '{print $4}' | awk -F ':' '{print $1}'
